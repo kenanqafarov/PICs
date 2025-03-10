@@ -15,6 +15,7 @@ The `take()` method encrypts text using PI digits, while the `shoot()` method de
 
 ## 📁 Project Structure
 
+```
 PICs/
 │
 ├── main.py               #We write our codes here
@@ -24,6 +25,8 @@ PICs/
 ├──README.md              # This file
 
 ---
+```
+
 
 ## ⚙️ What It Does
 
