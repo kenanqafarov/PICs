@@ -26,6 +26,13 @@ PICs/
 
 ```
 
+## 📥 Clone the Project
+
+To clone this project to your local machine, run the following command:
+
+```bash
+git clone https://github.com/kenanqafarov/PICs.git
+```
 
 ## ⚙️ What It Does
 
