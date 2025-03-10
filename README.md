@@ -1,4 +1,4 @@
-# PİCs Library 📌
+# PICs Library 📌
 
 **PİCs Library** is a Python-based tool that **encrypts and decrypts text using the digits of PI**.  
 The `take()` method encrypts text using PI digits, while the `shoot()` method decrypts it back to its original form.
